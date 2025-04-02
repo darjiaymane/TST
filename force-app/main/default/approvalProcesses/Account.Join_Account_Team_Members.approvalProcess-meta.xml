@@ -3,7 +3,16 @@
     <active>true</active>
     <allowRecall>false</allowRecall>
     <allowedSubmitters>
-        <type>owner</type>
+        <submitter>Commercial_A</submitter>
+        <type>role</type>
+    </allowedSubmitters>
+    <allowedSubmitters>
+        <submitter>Commercial_B</submitter>
+        <type>role</type>
+    </allowedSubmitters>
+    <allowedSubmitters>
+        <submitter>Manager</submitter>
+        <type>role</type>
     </allowedSubmitters>
     <approvalPageFields>
         <field>Name</field>

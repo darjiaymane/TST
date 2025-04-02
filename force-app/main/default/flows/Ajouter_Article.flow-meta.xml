@@ -407,7 +407,7 @@
             <targetReference>Get_cotation</targetReference>
         </connector>
     </start>
-    <status>Obsolete</status>
+    <status>Draft</status>
     <variables>
         <name>cotation_ligne_item</name>
         <dataType>SObject</dataType>

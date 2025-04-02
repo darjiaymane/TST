@@ -35,6 +35,12 @@
                 <default>false</default>
                 <label>Logistique</label>
             </value>
+            <value>
+                <fullName>Fert Maritime</fullName>
+                <default>false</default>
+                <isActive>false</isActive>
+                <label>Fert Maritime</label>
+            </value>
         </valueSetDefinition>
     </valueSet>
     <visibleLines>4</visibleLines>

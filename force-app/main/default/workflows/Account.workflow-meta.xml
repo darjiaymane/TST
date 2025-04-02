@@ -335,6 +335,15 @@
         <reevaluateOnChange>false</reevaluateOnChange>
     </fieldUpdates>
     <fieldUpdates>
+        <fullName>test</fullName>
+        <field>Termes_de_Reglement__c</field>
+        <name>test</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Literal</operation>
+        <protected>false</protected>
+        <reevaluateOnChange>false</reevaluateOnChange>
+    </fieldUpdates>
+    <fieldUpdates>
         <fullName>update_TECH_AP_MAJ_Infos_Paiement</fullName>
         <field>TECH_AP_MAJ_Infos_Paiement__c</field>
         <literalValue>0</literalValue>
